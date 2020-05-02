@@ -45,7 +45,7 @@ To complete this project, you will use Jupyter Notebooks through a workspace in 
 
 <a id='Results'></a>
 # Results:
-The main findings of the code can be found [here](https://medium.com/@farah.sidina/what-is-the-interesting-outcomes-from-fbi-gun-data-474f6e08f8d8).
+The main findings of the code can be found [here](https://medium.com/@viveknakhate007/six-goswamis-of-vrindavan-dec86d823d7e?sk=619a1ce38a48e433e5f3edac674e6914).
 
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
